@@ -7,4 +7,4 @@ TL;DR, This reference book is designed to address the various difficulties you m
 [中文版]()
 
 
-**We welcome you to contribute with us. JOIN US.**
+**We are welcome you to contribute with us. JOIN US.**
